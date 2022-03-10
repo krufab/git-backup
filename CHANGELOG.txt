@@ -1,2 +1,7 @@
+v0.1.0 - 2022-03-10
+Refactored logic to separate common functions into a library
+Added logic to backup projects from Bitbucket
+Added logic to backup repositories from Gitlab
+Improved documentation
 v0.0.1 - 2022-03-08
 First version
